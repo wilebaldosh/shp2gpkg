@@ -37,3 +37,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# shp and gpkg files
+data/*
+
+# .DS_Store
+.DS_Store
